@@ -1,0 +1,7 @@
+I opA * opB + opC
+P opA opB opC * +
+I opA * ( opB + opC )
+P opA  opB opC ! * +
+P a b c + *
+P a b * c +
+I a * ( b + c )
